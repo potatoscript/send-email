@@ -1,6 +1,4 @@
 # office-email
-Certainly! I'll provide a detailed explanation of the code, breaking it down into sections.
-
 ### Part A: Class Definition and Initialization
 
 ```python
