@@ -737,7 +737,7 @@ part B   def filter_table_data(self, event):
                 "body": "",
                 "footer":"",
                 "sender" : self.sender,
-                "smtp_server" : 'mrelay.noc.sony.co.jp',
+                "smtp_server" : 'xxx.co.jp',
                 "smtp_port" : 25
             }
         
