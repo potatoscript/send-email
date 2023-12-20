@@ -1,4 +1,4 @@
-# office-email
+# send-email
 ### Part A: Class Definition and Initialization
 
 ```python
